@@ -65,8 +65,6 @@ By democratizing access to essential testing equipment, this project empowers th
 
 ## Additional Resources
 
-- **Project Files & BOM:**  
-  [Google Drive Folder](https://drive.google.com/drive/folders/1Q7-kwRnVLeR-DjHSxVJFgb-IRqVza03g?usp=sharing)
 
 - **OLED Module Purchase:**  
   [Shopee: 2.4" 2.42 inch 128x64 OLED LCD Display Module SSD1309](https://shopee.ph/2.4-2.42-inch-128x64-OLED-LCD-Display-Module-SSD1309-12864-7-Pin-SPI-IIC-I2C-Serial-Interface-for-Arduino-UNO-R3-C51-i.517103615.18774113725?sp_atk=a92714bc-abb0-4431-8565-57df95d88b4a&xptdk=a92714bc-abb0-4431-8565-57df95d88b4a)
