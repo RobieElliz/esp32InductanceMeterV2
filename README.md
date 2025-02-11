@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Logo" style="max-width: 200px; display: block; margin: auto;" />
+<img src="logo.png" alt="Logo" style="max-width: 150px; display: block; margin: auto;" />
 
 # Portable ESP32 Inductance Meter
 
@@ -79,3 +79,10 @@ By democratizing access to essential testing equipment, this project empowers th
 ## License
 
 This project is open source. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## Made By
+
+This project is made by:  
+Johanna Abareta, Ken Louise Aycardo, Katrina Dianne Fernandez, Vince Morales, Robie Elliz Tizon
